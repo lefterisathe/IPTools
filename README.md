@@ -19,17 +19,14 @@
 ---
 
 ## 📖 Usage
-To use **iptools**, clone the repository and execute the script in your preferred environment.
+To use **iptools**, download the executable and run it in your preferred environment.
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/iptools.git
+# Download the executable from releases
+https://github.com/yourusername/iptools/releases
 
-# Navigate to the directory
-cd iptools
-
-# Run the script
-python iptools.py
+# Run the executable
+double-click iptools.exe
 ```
 
 ---
