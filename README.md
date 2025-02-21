@@ -41,11 +41,4 @@ Contributions are welcome! Feel free to submit issues or pull requests to improv
 
 ---
 
-## 🌎 Connect
-📧 Email: your.email@example.com  
-🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-📌 GitHub: [yourusername](https://github.com/yourusername)  
-
----
-
 ### ⭐ If you find this project useful, consider giving it a star!
