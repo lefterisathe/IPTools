@@ -23,7 +23,7 @@ To use **iptools**, download the executable and run it in your preferred environ
 
 ```bash
 # Download the executable from releases
-https://github.com/yourusername/iptools/releases
+https://github.com/lefterisathe/iptools/releases
 
 # Run the executable
 double-click iptools.exe
@@ -32,7 +32,7 @@ double-click iptools.exe
 ---
 
 ## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 
 ---
 
